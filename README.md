@@ -1,3 +1,7 @@
+Reprise de la structure et dépendance du dossier de base
+
+---------------------------------
+
 # mariemaxime-blog
 
 Blog créé avec React Redux pour le cours de Projet de fin d'études.

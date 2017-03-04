@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "portfolio de Marie-Maxime Tanguay",
+  "description": "portfolio de My Kim Duong",
   "main": "index.js",
   "engines": {
     "node": "6.9.4"
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aqually/mariemaxime-blog.git"
+    "url": "git+https://github.com/Kim1323/portfolio.git"
   },
   "author": "Marie-Maxime Tanguay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aqually/mariemaxime-blog/issues"
+    "url": "https://github.com/Kim1323/portfolio/issues"
   },
-  "homepage": "https://github.com/Aqually/mariemaxime-blog#readme",
+  "homepage": "https://github.com/Kim1323/portfolio#readme",
   "dependencies": {
     "axios": "^0.15.3",
     "babel-loader": "^6.2.10",
